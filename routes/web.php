@@ -6,7 +6,6 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\MyPurchasesController;
 use App\Http\Middleware\AdminMiddleware;
-
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
