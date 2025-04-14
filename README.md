@@ -29,6 +29,7 @@ This is a simple online shopping platform where:
 ### Client Login
 - Email: samuel@gmail.com
 - Password: welcome@123
+  
  Email: iranziferdinand845@gmail.com
 - Password: 123@welcome
 
