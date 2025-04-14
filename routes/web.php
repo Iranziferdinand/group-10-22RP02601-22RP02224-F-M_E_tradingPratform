@@ -35,6 +35,5 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/admin/purchase-stats', [AdminController::class, 'purchaseStats'])->name('admin.purchase-stats');
     });
 });
-
 // Authentication routes
 Auth::routes();
