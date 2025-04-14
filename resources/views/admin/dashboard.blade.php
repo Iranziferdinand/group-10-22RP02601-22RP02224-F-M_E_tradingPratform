@@ -5,7 +5,7 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">{{ __('Admin Dashboard') }}</div>
-
+                
                 <div class="card-body">
                     <!-- Statistics Cards -->
                     <div class="row mb-4">
