@@ -20,7 +20,7 @@ This is a simple online shopping platform where:
 3. Stocks - Tracks user purchases
 
 ## Login Credentials
-
+#######################################################
 ### Admin Login
 - Email: admin@admin.com
 - Password: Admin123!
