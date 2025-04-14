@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # F&I E_Trading Platform
 
 ## programmers
@@ -20,7 +21,7 @@ This is a simple online shopping platform where:
 3. Stocks - Tracks user purchases
 
 ## Login Credentials
-#######################################################
+###########################################################
 ### Admin Login
 - Email: admin@admin.com
 - Password: Admin123!
@@ -44,3 +45,6 @@ This is a simple online shopping platform where:
 
 ## Contact
 For support, email: [iranziferdinand845@gmail.com]
+=======
+# group-10-22RP02601-22RP02224-F-M_E_tradingPratform
+>>>>>>> 88c39e3d5835bcd92935e342675353328dcb33e4
