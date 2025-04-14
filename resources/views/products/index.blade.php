@@ -4,7 +4,7 @@
             <th>Image</th>
             <th>Product Name</th>
             <th>Price</th>
-            <th>Available Quantity</th>
+           <th>Available Quantity</th>
             <th>Total Stock</th>
             <th>Action</th> <!-- Added Action column for the Buy form -->
         </tr>
