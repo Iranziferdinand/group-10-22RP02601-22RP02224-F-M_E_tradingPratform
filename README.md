@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # F&I E_Trading Platform
 
 ## programmers
@@ -7,6 +6,16 @@
 
 ## Project Name
 F&M E_Trading Platform - Online Shopping System
+
+## Installation Instructions
+1. Clone the repository
+2. Run `composer install` to install dependencies
+3. Copy `.env.example` to `.env` and configure your database settings
+4. Run `php artisan key:generate` to generate application key
+5. Run `php artisan migrate` to create database tables
+6. Run `php artisan admin:create admin@admin.com "Admin123!"` to create admin user
+7. Start your web server (e.g., XAMPP)
+8. Access the application through your web browser
 
 ## How It Works
 This is a simple online shopping platform where:
@@ -21,15 +30,14 @@ This is a simple online shopping platform where:
 3. Stocks - Tracks user purchases
 
 ## Login Credentials
-###########################################################
-### Admin Login
+1. Admin Login
 - Email: admin@admin.com
 - Password: Admin123!
 
-### Client Login
+2. Client Login
 - Email: samuel@gmail.com
 - Password: welcome@123
- Email: iranziferdinand845@gmail.com
+- Email: iranziferdinand845@gmail.com
 - Password: 123@welcome
 
 ## Main Features
@@ -40,11 +48,11 @@ This is a simple online shopping platform where:
 - Multiple payment options
 
 ## Requirements
+- PHP 8.0 or higher
+- MySQL 5.7 or higher
+- Composer
 - XAMPP (PHP and MySQL)
 - Web browser
 
 ## Contact
 For support, email: [iranziferdinand845@gmail.com]
-=======
-# group-10-22RP02601-22RP02224-F-M_E_tradingPratform
->>>>>>> 88c39e3d5835bcd92935e342675353328dcb33e4
