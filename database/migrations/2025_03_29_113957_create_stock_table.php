@@ -10,7 +10,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('stock', function (Blueprint $table) {
+        Schema::create('stocks', function (Blueprint $table) {
             $table->id();
             $table->foreignId('product_id')->constrained()->onDelete('cascade'); // Foreign key linking to products
             $table->integer('quantity');  // The quantity purchased
