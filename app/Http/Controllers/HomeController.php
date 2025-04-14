@@ -5,7 +5,6 @@ use App\Models\Product;
 use App\Models\Stock;
 use App\Models\User;
 use Illuminate\Http\Request;
-
 class HomeController extends Controller
 {
     /**
